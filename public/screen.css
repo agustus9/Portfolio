@@ -7,3 +7,27 @@ body {
   min-height: 100%;
   font: 16px / 1 sans-serif;
 }
+
+.header {
+  border: .5em solid red;
+  padding: .5em;
+  margin: 1em;
+}
+
+.images {
+  border: .5em solid red;
+  padding: .5em;
+  margin: 1em;
+}
+
+.middle {
+  border: .5em solid rgb(0, 255, 13);
+  padding: .5em;
+  margin: 1em;
+}
+
+.bottom {
+  border: .5em solid red;
+  padding: .5em;
+  margin: 1em;
+}
