@@ -31,3 +31,9 @@ body {
   padding: .5em;
   margin: 1em;
 }
+
+.foot {
+  border: .5em solid red;
+  padding: .5em;
+  margin: 1em;
+}
